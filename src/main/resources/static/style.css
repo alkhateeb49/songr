@@ -1,0 +1,18 @@
+img{
+hight:500px;
+width:500px;
+border: solid #000000 3px;
+}
+body {
+    background-color: skyblue;
+}
+div {
+    text-align: center;
+    border: solid #ff8080 5px;
+}
+p{
+    font-size: 25px;
+}
+h1{
+
+}
